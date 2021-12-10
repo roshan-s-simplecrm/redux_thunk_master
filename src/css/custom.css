@@ -1,0 +1,9 @@
+.header{
+    background-color: black !important;
+    color: red !important;
+  }
+  .toolbar{
+    font-weight: bold !important;
+    text-align: center !important;
+    font-size: large  !important;
+  }
